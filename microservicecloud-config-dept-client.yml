@@ -14,7 +14,7 @@ spring:
     driver-class-name: org.gjt.mm.mysql.Driver
     url: jdbc:mysql://localhost:3306/cloudDB01?useUnicode=true&characterEncoding=UTF-8 
     username: root
-    password: root
+    password: 123456
     dbcp2:
       min-idle: 5
       initial-size: 5
@@ -51,7 +51,7 @@ spring:
     driver-class-name: org.gjt.mm.mysql.Driver
     url: jdbc:mysql://localhost:3306/cloudDB01?useUnicode=true&characterEncoding=UTF-8 
     username: root
-    password: root
+    password: 123456
     dbcp2:
       min-idle: 5
       initial-size: 5
@@ -90,7 +90,7 @@ spring:
     driver-class-name: org.gjt.mm.mysql.Driver
     url: jdbc:mysql://localhost:3306/cloudDB02?useUnicode=true&characterEncoding=UTF-8 
     username: root
-    password: root
+    password: 123456
     dbcp2:
       min-idle: 5
       initial-size: 5
@@ -127,7 +127,7 @@ spring:
     driver-class-name: org.gjt.mm.mysql.Driver
     url: jdbc:mysql://localhost:3306/cloudDB02?useUnicode=true&characterEncoding=UTF-8 
     username: root
-    password: root
+    password: 123456
     dbcp2:
       min-idle: 5
       initial-size: 5
@@ -166,7 +166,7 @@ spring:
     driver-class-name: org.gjt.mm.mysql.Driver
     url: jdbc:mysql://localhost:3306/cloudDB03?useUnicode=true&characterEncoding=UTF-8 
     username: root
-    password: root
+    password: 123456
     dbcp2:
       min-idle: 5
       initial-size: 5
@@ -203,7 +203,7 @@ spring:
     driver-class-name: org.gjt.mm.mysql.Driver
     url: jdbc:mysql://localhost:3306/cloudDB03?useUnicode=true&characterEncoding=UTF-8 
     username: root
-    password: root
+    password: 1234556
     dbcp2:
       min-idle: 5
       initial-size: 5
